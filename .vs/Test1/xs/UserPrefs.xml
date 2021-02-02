@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1095E53F-7F02-0617-B751-54D5BB06C4F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Display.cs">
+    <Files>
+      <File FileName="Assets/PlayerMovement.cs" Line="8" Column="30" />
+      <File FileName="Assets/Collectibles.cs" Line="14" Column="1" />
+      <File FileName="Assets/groundCheck.cs" Line="11" Column="9" />
+      <File FileName="Assets/Display.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c329bf0a-4fd2-4c97-bb8b-f6813656967b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
